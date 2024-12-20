@@ -1,0 +1,17 @@
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\bin\Debug\net8.0\TestBotMgok.exe
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\bin\Debug\net8.0\TestBotMgok.deps.json
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\bin\Debug\net8.0\TestBotMgok.runtimeconfig.json
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\bin\Debug\net8.0\TestBotMgok.dll
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\bin\Debug\net8.0\TestBotMgok.pdb
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotMgok.csproj.AssemblyReference.cache
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotMgok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotMgok.AssemblyInfoInputs.cache
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotMgok.AssemblyInfo.cs
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotMgok.csproj.CoreCompileInputs.cache
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotM.76B66507.Up2Date
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotMgok.dll
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\refint\TestBotMgok.dll
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotMgok.pdb
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\TestBotMgok.genruntimeconfig.cache
+C:\Users\vkave\RiderProjects\TestBotMgok\TestBotMgok\obj\Debug\net8.0\ref\TestBotMgok.dll
